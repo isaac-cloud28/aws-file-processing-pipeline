@@ -1,4 +1,4 @@
-# Automated File Processing Pipeline on AWS
+# AWS Serverless File Processing Pipeline
 
 ## Project Overview
 
